@@ -43,10 +43,12 @@ ul.lista3 {
 
 img.dinero {
     float: justify;
+    margin-right: 30px;
 }
 
-img.dinero2{
+img.dinero2 {
     float: right;
+    margin-left:30px;
 }
 
 p.opcion1 {
