@@ -1,0 +1,61 @@
+body {
+    background-color: rgba(253, 229, 13, 0.883);
+}
+
+main {
+    background-color: whitesmoke;
+}
+
+p.opcion {
+    color:rgb(85, 14, 251);
+}
+
+p.venta {
+    background-color: gray;
+    color: yellow;
+    margin-right: 55%;
+    
+}
+
+img.black_friday {
+    float: right;
+}
+
+section {
+    background-color: lightblue;
+}
+
+img.derecha{
+    float: right;
+}
+
+ol.lista1 {
+    text-align: left;
+}
+
+ul.lista2 {
+    text-align: center;
+}
+
+ul.lista3 {
+    text-align: right;
+}
+
+img.dinero {
+    float: justify;
+}
+
+img.dinero2{
+    float: right;
+}
+
+p.opcion1 {
+    text-align:center;
+    color:rgb(85, 14, 251);
+
+}
+
+p.opcion2 {
+    text-align: right;
+    color:rgb(85, 14, 251);
+}
